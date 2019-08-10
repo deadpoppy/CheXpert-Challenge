@@ -1,11 +1,10 @@
+> * All the work was done at JF HEALTHCARE, China.[JF HEALTHCARE](http://www.jfhealthcare.com/#home)
+> ![logo](https://github.com/deadpoppy/CheXpert-Challenge/blob/master/image/logo.png)
 # CheXpert-Challenge
-> * All the work was done at JF HEALTHCARE
-> * ![logo](https://github.com/deadpoppy/CheXpert-Challenge/blob/master/image/logo.png)China.[JF HEALTHCARE](http://www.jfhealthcare.com/#home)
-
 **CheXpert is a large dataset of chest X-rays and competition for automated chest x-ray interpretation, which features uncertainty labels and radiologist-labeled reference standard evaluation sets.**
 ------------------
 ## Instructions
-> With bells and whistles, The two models we submitted won the first place and the second place respectively.
+> Without bells and whistles, The two models we submitted won the first place and the second place respectively.
 
 ![chex01](https://github.com/deadpoppy/CheXpert-Challenge/blob/master/image/chex000.png)
 
