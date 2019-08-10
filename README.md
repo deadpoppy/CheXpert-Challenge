@@ -1,6 +1,9 @@
 # CheXpert-Challenge
----------------
+> * All the work was done at JF HEALTHCARE
+> * ![logo](https://github.com/deadpoppy/CheXpert-Challenge/blob/master/image/logo.png)China.[JF HEALTHCARE](http://www.jfhealthcare.com/#home)
+
 **CheXpert is a large dataset of chest X-rays and competition for automated chest x-ray interpretation, which features uncertainty labels and radiologist-labeled reference standard evaluation sets.**
+------------------
 ## Instructions
 > With bells and whistles, The two models we submitted won the first place and the second place respectively.
 
@@ -12,8 +15,6 @@
 
 * Code for CheXpert Challenge 2019 Top 1 && Top 2 solution (08/06/2019).
 [https://github.com/deadpoppy/CheXpert-Challenge](https://github.com/deadpoppy/CheXpert-Challenge)
-
-* All the work was done at JF HEALTHCARE, China.[JF HEALTHCARE](http://www.jfhealthcare.com/#home)
 
 ## To Do
 * Solution code
